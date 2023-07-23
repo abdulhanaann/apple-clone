@@ -1,0 +1,57 @@
+/* .apple{
+    margin-left: 34px;
+    margin-right: 10px;
+    text-decoration: none;
+    color: black;
+    font-size: 14px;
+
+} */
+ul> li{
+    display: inline-block;
+    margin-right: 40px;
+    margin-left: 5px;
+    /* font-size: 13px; */
+}
+
+h1{
+    text-align: center;
+    font-size: 60px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+p{
+    text-align: center;
+    font-size: 30px;
+    line-height: 5px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+#abc{
+    text-align: center;
+    color: blue;
+    font-size: 105%;
+    line-height: 5px;
+}
+.abc{
+    text-align: center;
+    font-size: 105%;
+    color: blue;
+    
+}
+.AH{
+    line-height: 1px;
+
+}
+div{
+    background-color: black;
+    color: white;
+}
+#iPhone14{
+    background-color: white;
+    color: black;
+    display: inline-block;
+}
+#Vision{
+    background-color: white ;
+    display: inline-block;
+}
+
+
